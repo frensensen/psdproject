@@ -1,0 +1,20 @@
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\csc.exe
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\vbc.exe
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\Lab Project PSD.dll.config
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\Lab Project PSD.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\Lab Project PSD.pdb
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\obj\Debug\Lab Project PSD.csprojResolveAssemblyReference.cache
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\obj\Debug\Lab Project PSD.dll
+C:\Users\Gerry\Documents\psd\psdproject\Lab Project PSD\obj\Debug\Lab Project PSD.pdb
